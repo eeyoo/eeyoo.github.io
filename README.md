@@ -1,2 +1,11 @@
-# eeyoo.github.io
-my person blog
+eeyoo.github.io
+===============
+
+Github personal blog
+--------------------
+想在**github**建一个个人博客。记录自己的学习和成长，分享一些知识和乐趣。
+
+如果自己只需要增加一些内容，自动生成一些优雅漂亮的版式就好了。
+
+怎么做呢？
+
